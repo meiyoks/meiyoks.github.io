@@ -1,6 +1,6 @@
 # Drag Race Simulator
 💗 Hello, this is a drag race simulator I have started! Based off of edssb & rainbow's simulators
-<br> Discord: <b>meiyoks</b>
+<br> Discord: <b>meiyoks</b> Link: <b>https://meiyoks.github.io/rupauls-drag-race-simulator<b>
 # 04/13/2022
 * Added the Lipsync LaLaPaRUZa Smackdown from season 14
 * Added Team Wins in Girl Group Challenges
